@@ -1,7 +1,7 @@
 Michel Szklo
 ============
 
--------------------    			 ----------------------------
+--------------------------------------------
 Bredaseweg 201
 
 Tilburg ND5038
@@ -11,7 +11,7 @@ The Netherlands
 m.szklo@tilburguniversity.edu
 
 +31 6 3049 2826                          
--------------------    			 ----------------------------
+-----------------------------------------------
 
 Education
 ---------
@@ -35,35 +35,39 @@ Education
 
     *Israeli Economy, Israeli Politics, History of Modern Middle East*
 
+:  
+
 Professional Experience
 ----------
 
 FEB/13-JUN/15
 
-:  **Anima Investimentos**; São Paulo, Brazil
+:  **ANIMA INVESTIMENTOS**; São Paulo, Brazil
 
 :  Anima Investimentos is a single family office of one of the main Natura Cosméticos (largest cosmetics company in Brazil, listed on Sao Paulo Stock Exchange) shareholder
+: 
 
-   * Analyst - Asset Allocation and Macroeconomics (Jan/15 - Jun/2015)*
+   *Analyst - Asset Allocation and Macroeconomics (Jan/15 - Jun/2015)*
 
 :  * Reporting and analisys of portfolio historical absolute and relative performance.
 :  * Brazil and Global macroeconomics analisys.
 :  * Responsible for the Macroeconomics House View publication.
 :  * Asset Allocation recommendations.
 :  * Member of the Investment Comitee
+: 
 
-  * Internship - Asset Allocation and Macroeconomics (Feb/13 - Dec/2013)*
+  *Internship - Asset Allocation and Macroeconomics (Feb/13 - Dec/2013)*
 
 :  * Reporting and analisys of portfolio performance.
 :  * Brazil and Global macroeconomics research.
 
-
+: 
 
 MAY/12-JUL/12
 
-: **Safra National Bank of New York**; New York, USA
+: **SAFRA NATIONAL BANK OF NEW YORK**; New York, USA
 
-  * Internship - Trading Desk (Structured Notes and Fixed Income)*
+  *Internship - Trading Desk (Structured Notes and Fixed Income)*
 
 :  * Keep track of products performances.
 :  * Research to support new structured notes.
