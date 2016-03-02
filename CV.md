@@ -1,69 +1,107 @@
-% Buttondown Stylesheet Example
-% Pandoc Markdown Version
-% February 2012
+Michel Szklo
+============
 
-Headers
-=======
+-------------------    			 ----------------------------
+Bredaseweg 201                  m.szklo@tilburguniversity.edu
+Tilburg ND5038                         		+31 6 3049 2826
+The Netherlands                          
+-------------------    			 ----------------------------
 
-Above this, we have the title, author (or subtitle) and date 
-Pandoc metadata. These are specially classed H1, H2 and H3 
-elements that we just add centering to.
+Education
+---------
 
-## Level 2
+2015-2016 (expected)
+:   **Master of Science in Economics**; Tilburg University (The Netherlands)
 
-With Pandoc's `--section-divs` option, nested header levels 
-create nested DIVs. This stylesheet creates nested indentation 
-for them to nest visually.
+    *Sustainability and Growth Track*
 
-### Level 3
+2009-2013
+:   **Bachelor of Science in Economics**; Fundação Getulio Vargas (São Paulo, Brazil)
 
-I should create some auxiliary CSS files that you could include 
-after `buttondown.css` to change some things like turning off 
-nested indenting.
+    *Consultoria Junior de Economia (Non-profit consulting organization of undergraduate students in Economics, Administration and Law at FGV-SP): Project Coordinator – Corporate Finance Database*
 
-#### Level 4
+    *Applied Macroeconomics Center (CEMAP): Research Assistant in Applied Macroeconomics and Economic Conjuncture. Discussions on macroeconomic policies with focus on inflation*
 
-Buttondown doesn't re-define the font size or weight of the 
-headers, but it does define the font families for them as sans-
-serf.
+    *Master in Business Economics Program (CEABE): Teacher Assistant*
 
-##### Level 5
+2012-2012
+:   **Exchange Student**; Tel Aviv University (Israel)
 
-It doesn't re-define the body text font, and it doesn't make 
-the text body narrow --- it leaves it full width. I will probably 
-add a style option file for that.
+    *Israeli Economy, Israeli Politics, History of Modern Middle East*
 
-###### Level 6
+Professional Experience
+----------
 
-Level 6 can be quite small.
+Feb/13-Jun/15
+:  **Asset Allocation and Macroeconomics analyst at Anima Investimentos**; São Paulo
+
+Anima Investimentos is a single family office of one of the main Natura Cosméticos (largest cosmetics company in Brazil, listed on Sao Paulo Stock Exchange) shareholder
+
+* Reporting and analisys of portfolio historical absolute and relative performance
+* Brazil and Global macroeconomics analisys.
+* Responsible for the Macroeconomics House View publication.
+* Asset Allocation recommendations.
+* Member of the Investment Comitee
 
 
-Lists
-=====
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
 
-Unordered lists
----------------
+**That Other Job You Had**
 
-### A simple list:
+Also with a short description.
 
-Text before
+Technical Experience
+--------------------
 
-* Alpha
-* Beta
-* Gamma
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
 
-Text after
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
 
-### A nested list:
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
 
-* Alpha
-    * Apple
-    * Orange
-* Beta
-    - A multi-line item to show  
-      where the wrapping and sublist line up.
-        - Earth
-        - Moon
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
+
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file). 
+
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
+
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+[ref]: https://github.com/githubuser/superlongprojectname
+
+Extra Section, Call it Whatever You Want
+----------------------------------------
+
+* Human Languages:
+
+     * English (native speaker)
+     * ???
+     * This is what a nested list looks like.
+
+* Random tidbit
+
+* Other sort of impressive-sounding thing you did
     - Pineapple
 * Gamma (with numbered sublist)
     1. One
