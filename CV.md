@@ -1,3 +1,6 @@
+﻿###[Click here the access the web page with all assignments][1]
+[1]: http://mszklo.github.io/
+
 Michel Szklo
 ============
 
