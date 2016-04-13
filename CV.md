@@ -1,4 +1,7 @@
-﻿###[Click here the access the web page with all assignments][1]
+﻿###[Link to access final assignment][2]
+[2]: https://github.com/chayaninw/assignment3/blob/master/numsim_project.ipynb
+
+###[Click here the access the web page with all assignments][1]
 [1]: http://mszklo.github.io/
 
 Michel Szklo
